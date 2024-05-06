@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+.logo {
+    width: 40%;
+}
+
+.image {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-bottom: 25px;
+}
+
+li {
+    /* padding-left: 10px; */
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 16px;
+}
+
+.nav {
+    background-color: black;
+    width: 70%;
+    padding: 15px;
+    color: white;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.about {}
